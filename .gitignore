@@ -1,0 +1,21 @@
+# macos
+.DS_Store
+
+# linux
+*~
+
+# ide
+.vscode/
+.idea/
+
+# local
+temp*/
+trash/
+todo/
+*.doc
+*.docx
+*.py
+
+code/
+src/
+data/
